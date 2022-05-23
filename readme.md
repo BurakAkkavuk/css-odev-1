@@ -1,6 +1,3 @@
 # **Css Ödev-1**
-```
-Patika.dev CSS Konusu 1.Ödev Çalışması **(https://app.patika.dev/)**
-
-```
+**[Patika.dev](https://app.patika.dev/)** CSS konusu 1.Ödev Çalışması
 ![img](https://i.hizliresim.com/7fzoj27.png)
