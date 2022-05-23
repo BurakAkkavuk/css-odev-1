@@ -1,0 +1,26 @@
+.text-baslik{
+    color: crimson;
+}
+.text-ortala{
+    text-align: center;
+}
+h2{
+  color: purple;
+}
+a{
+    font-family: sans-serif;
+    color: darkred;
+}
+body {
+    background-size: cover;
+    font-family: sans-serif;
+    text-align: center;
+}
+.font-20{
+    font-size:20px;
+}
+ul{
+    list-style-position: inside;
+    font-family: sans-serif;
+    font-size:16px;
+}
